@@ -1,0 +1,7 @@
+{
+  "name": "Suno V5 Style Architect",
+  "description": "A professional tool to generate optimized style prompts for Suno AI v5 using Gemini 3 Pro Preview reasoning capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
